@@ -1,5 +1,7 @@
 Запуск контейнера с backend-сервером Django
 -
+Ссылка на задание: https://github.com/netology-code/py-homeworks-web/tree/new/1.3-docker
+
 Для сборки и запуска контейнера с backend-сервером, выполните следующие команды:
 
 
